@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SignedHW (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SignedHW (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
